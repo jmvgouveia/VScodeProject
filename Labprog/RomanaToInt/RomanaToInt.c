@@ -148,5 +148,4 @@ void main()
         printf("%s\n", str);
         reset();
     };
-//teste
 }
