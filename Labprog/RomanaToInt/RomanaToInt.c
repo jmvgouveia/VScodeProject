@@ -148,11 +148,5 @@ void main()
         printf("%s\n", str);
         reset();
     };
-
-    printf("Sair Y/N");
-    scanf("%c"&exit);
-
-    if (exit=='Y')
-        exit();
-    
+//teste
 }
