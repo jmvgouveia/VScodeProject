@@ -8,7 +8,6 @@ Laboratório de Programação - 21178 - 2022
 \____/\____/_/   \__, /\___/   \____/\____/\__,_/ |___/\___/_/\__,_/
                 /____/
 
-2003777 - Jorge Gouveia
 --------------------------------------Enunciado----------------------------
 Conversor de numerais romanos.
 Escreva um programa para converter um número em numeração romana para a notação decimal. Ex. MCMLXXIX = 1979.
